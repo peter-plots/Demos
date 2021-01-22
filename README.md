@@ -1,5 +1,5 @@
 # PeterPlots Demos
-This repository contains the code and dataviz used in the PeterPlots Demos playlist. Each folder in the repository will represent one video in listed in the table below.
+This repository contains the code to create the dataviz used in the PeterPlots Demos playlist. Each folder in the repository will represent one video in listed in the table below.
 
 | Folder Name | Data Set | Link to Video |
 | ----------- | ----------- |----------- |
